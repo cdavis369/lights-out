@@ -48,7 +48,6 @@ function Board({ nrows, ncols, chanceLightStartsOn }) {
         }
         initialBoard.push(row);
       }
-      console.log(offNum)
     }
 
     return initialBoard;
